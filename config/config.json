@@ -1,0 +1,42 @@
+{
+  "intent_greeting": {
+    "utterances": [
+      "jarvis",
+      "wake up jarvis",
+      "hello",
+      "hello jarvis"
+    ],
+    "response": [
+      "Hello Sir, This is Jarvis, How may I help you?",
+      "Hello Sir, this is your Virtual Assistant",
+      "Hello Sir, Always at your service",
+      "Hello Sir, How May I help you?"
+    ]
+  },
+  "intent_applications": {
+    "utterances": [
+      "open",
+      "launch"
+    ],
+    "applications": {
+      "geforce experience": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA GeForce Experience.exe",
+      "google": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+      "visual studio code": "D:\\Programming\\Microsoft VS Code\\Code.exe",
+      "qb64": "D:\\Programming\\qb64\\qb64.exe",
+      "unity": "D:\\Program Files\\Unity\\Editor\\2019.4.12f1\\Editor\\Unity.exe",
+      "unity hub": "D:\\Program Files\\Unity Hub\\Unity Hub.exe",
+      "youtube": "https://www.youtube.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/?hl=en",
+      "github": "https://github.com/",
+      "calculator": "C:\\Windows\\System32\\calc.exe"
+    },
+    "response": [
+      "ok sir",
+      "sure sir",
+      "Opening sir",
+      "launching sir"
+    ]
+  }
+}
